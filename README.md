@@ -5,3 +5,5 @@ Short tutorial for PostCSS
 * After forking the repo run (npm install) in the terminal to download all the dependencies.
 * The "main" branch has the starting files.
 * The "complete" branch has the final code.
+
+Walkthrough found here: https://www.freecodecamp.org/news/what-is-postcss/`
